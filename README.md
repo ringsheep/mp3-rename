@@ -9,7 +9,7 @@ Base renaming template:
 
 ## Usage
 
-`./mp3-rename "my sound.mp3"`
+`./mp3-rename.sh "my sound.mp3"`
 
 To rename entire folder of mp3s, use:
 
